@@ -112,5 +112,5 @@ def update_graph(drop_month, drop_year):
 # ***************************************
 # Run the app
 # ***************************************
-if __name__ == '__main__':
+if __name__ == "__main__":
     dash_app.run_server(debug=True)
